@@ -1,1 +1,1 @@
-alert("HU HU HU")
+import '../styles/styles.css'
